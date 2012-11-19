@@ -1,0 +1,12 @@
+Elevate Software's DBISAM Error Codes listed and explained.
+Covers version 4.
+
+Contains:
+* Error code
+* Error constant, for developers
+* Error message, as shown to final user
+* Error explanation from the developer's manual.
+
+This is NOT and official Elevate Software app, it's just a help for developers using this database system.
+
+DBISAM is the standard for replacing the BDE in Delphi or C++ Builder applications.

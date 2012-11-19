@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">DBISAM Error Codes</string>
+	<string name="edSearchHint">Enter error code</string>
+	<string name="buSearch">Search</string>
+	<string name="error_code_not_found">Error code not found!</string>
+	<string name="error_information">Error information</string>
+	<string name="about_menu">About this application ...</string>
+	<string name="more_info_text">DBISAM is a product from Elevate Software. &lt;b&gt;This is not an official Elevate Software application&lt;/b&gt;. Please visit http://www.elevatesoft.com/products?category=dbisam for more info about DBISAM</string>
+</resources>
